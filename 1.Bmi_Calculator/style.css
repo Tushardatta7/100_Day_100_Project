@@ -15,6 +15,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
 html {
@@ -23,7 +24,9 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: var(--grey);
+  background-image: url("https://www.builtlean.com/wp-content/uploads/2013/06/Bmi-chart-1.jpg");
+  background-size: cover;
+
 }
 
 p {
